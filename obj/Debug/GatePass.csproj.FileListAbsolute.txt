@@ -1,0 +1,50 @@
+C:\Users\91774\source\repos\GatePass\GatePass\bin\Debug\GatePass.exe.config
+C:\Users\91774\source\repos\GatePass\GatePass\bin\Debug\GatePass.exe
+C:\Users\91774\source\repos\GatePass\GatePass\bin\Debug\GatePass.pdb
+C:\Users\91774\source\repos\GatePass\GatePass\bin\Debug\Guna.UI.dll
+C:\Users\91774\source\repos\GatePass\GatePass\obj\Debug\GatePass.csproj.AssemblyReference.cache
+C:\Users\91774\source\repos\GatePass\GatePass\obj\Debug\GatePass.csproj.SuggestedBindingRedirects.cache
+C:\Users\91774\source\repos\GatePass\GatePass\obj\Debug\GatePass.Form1.resources
+C:\Users\91774\source\repos\GatePass\GatePass\obj\Debug\GatePass.csproj.GenerateResource.cache
+C:\Users\91774\source\repos\GatePass\GatePass\obj\Debug\GatePass.csproj.CoreCompileInputs.cache
+C:\Users\91774\source\repos\GatePass\GatePass\obj\Debug\GatePass.csproj.CopyComplete
+C:\Users\91774\source\repos\GatePass\GatePass\obj\Debug\GatePass.exe
+C:\Users\91774\source\repos\GatePass\GatePass\obj\Debug\GatePass.pdb
+C:\Users\91774\source\repos\GatePass\GatePass\bin\Debug\Guna.UI2.dll
+C:\Users\91774\source\repos\GatePass\GatePass\obj\Debug\GatePass.Dashboard.resources
+C:\Users\91774\source\repos\GatePass\GatePass\obj\Debug\GatePass.AddEmployee.resources
+C:\Users\91774\source\repos\GatePass\GatePass\obj\Debug\GatePass.UpdateEmployee.resources
+C:\Users\91774\source\repos\GatePass\GatePass\obj\Debug\GatePass.ViewEmployee.resources
+C:\Users\91774\source\repos\GatePass\GatePass\obj\Debug\GatePass.DeleteEmployee.resources
+C:\Users\91774\source\repos\GatePass\GatePass\obj\Debug\GatePass.AddVisitor.resources
+C:\Users\91774\source\repos\GatePass\GatePass\obj\Debug\GatePass.FilterPass.resources
+C:\Users\91774\source\repos\GatePass\GatePass\obj\Debug\GatePass.GeneratePass.resources
+C:\Users\91774\source\repos\GatePass\GatePass\obj\Debug\GatePass.UpdateVisitor.resources
+C:\Users\91774\source\repos\GatePass\GatePass\obj\Debug\GatePass.ValidatePass.resources
+C:\Users\91774\source\repos\GatePass\GatePass\obj\Debug\GatePass.ViewVisitor.resources
+C:\Users\91774\source\repos\GatePass\GatePass\obj\Debug\GatePass.Properties.Resources.resources
+C:\Users\91774\source\repos\GatePass\GatePass\obj\Debug\GatePass.Pass.resources
+C:\Project\Modi Innovations\GatePass\GatePass\bin\Debug\GatePass.exe.config
+C:\Project\Modi Innovations\GatePass\GatePass\bin\Debug\GatePass.exe
+C:\Project\Modi Innovations\GatePass\GatePass\bin\Debug\GatePass.pdb
+C:\Project\Modi Innovations\GatePass\GatePass\obj\Debug\GatePass.csproj.AssemblyReference.cache
+C:\Project\Modi Innovations\GatePass\GatePass\obj\Debug\GatePass.csproj.SuggestedBindingRedirects.cache
+C:\Project\Modi Innovations\GatePass\GatePass\obj\Debug\GatePass.AddEmployee.resources
+C:\Project\Modi Innovations\GatePass\GatePass\obj\Debug\GatePass.AddVisitor.resources
+C:\Project\Modi Innovations\GatePass\GatePass\obj\Debug\GatePass.Dashboard.resources
+C:\Project\Modi Innovations\GatePass\GatePass\obj\Debug\GatePass.DeleteEmployee.resources
+C:\Project\Modi Innovations\GatePass\GatePass\obj\Debug\GatePass.FilterPass.resources
+C:\Project\Modi Innovations\GatePass\GatePass\obj\Debug\GatePass.Form1.resources
+C:\Project\Modi Innovations\GatePass\GatePass\obj\Debug\GatePass.GeneratePass.resources
+C:\Project\Modi Innovations\GatePass\GatePass\obj\Debug\GatePass.Pass.resources
+C:\Project\Modi Innovations\GatePass\GatePass\obj\Debug\GatePass.Properties.Resources.resources
+C:\Project\Modi Innovations\GatePass\GatePass\obj\Debug\GatePass.UpdateEmployee.resources
+C:\Project\Modi Innovations\GatePass\GatePass\obj\Debug\GatePass.UpdateVisitor.resources
+C:\Project\Modi Innovations\GatePass\GatePass\obj\Debug\GatePass.ValidatePass.resources
+C:\Project\Modi Innovations\GatePass\GatePass\obj\Debug\GatePass.ViewEmployee.resources
+C:\Project\Modi Innovations\GatePass\GatePass\obj\Debug\GatePass.ViewVisitor.resources
+C:\Project\Modi Innovations\GatePass\GatePass\obj\Debug\GatePass.csproj.GenerateResource.cache
+C:\Project\Modi Innovations\GatePass\GatePass\obj\Debug\GatePass.csproj.CoreCompileInputs.cache
+C:\Project\Modi Innovations\GatePass\GatePass\obj\Debug\GatePass.csproj.CopyComplete
+C:\Project\Modi Innovations\GatePass\GatePass\obj\Debug\GatePass.exe
+C:\Project\Modi Innovations\GatePass\GatePass\obj\Debug\GatePass.pdb
